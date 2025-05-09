@@ -1,5 +1,5 @@
 @font-face {
-  font-family: 'ak-class';
+  font-family: 'ak-class-icons';
   src:  url('font/400/ak-class-icons.eot?9ur6db');
   src:  url('font/400/ak-class-icons.eot?9ur6db#iefix') format('embedded-opentype'),
     url('font/400/ak-class-icons.ttf?9ur6db') format('truetype'),
@@ -11,7 +11,7 @@
 }
 
 @font-face {
-  font-family: 'ak-class';
+  font-family: 'ak-class-icons';
   src:  url('font/400/ak-class-icons.eot?62ht0j');
   src:  url('font/400/ak-class-icons.eot?62ht0j#iefix') format('embedded-opentype'),
     url('font/400/ak-class-icons.ttf?62ht0j') format('truetype'),
@@ -22,9 +22,9 @@
   font-display: block;
 }
 
-[class^="ak-class-"], [class*=" ak-class-"] {
+.ak-class {
   /* use !important to prevent issues with browser extensions that change font */
-  font-family: 'ak-class' !important;
+  font-family: 'ak-class-icons' !important;
   speak: never;
   font-style: normal;
   font-weight: normal;
@@ -37,225 +37,225 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-Abjurer:before {
+.ak-Abjurer:before {
   content: "\e900";
 }
-.icon-Agent:before {
+.ak-Agent:before {
   content: "\e901";
 }
-.icon-Alchemist:before {
+.ak-Alchemist:before {
   content: "\e902";
 }
-.icon-Ambusher:before {
+.ak-Ambusher:before {
   content: "\e903";
 }
-.icon-Artificer:before {
+.ak-Artificer:before {
   content: "\e904";
 }
-.icon-Artilleryman:before {
+.ak-Artilleryman:before {
   content: "\e905";
 }
-.icon-Arts-Fighter:before {
+.ak-Arts-Fighter:before {
   content: "\e906";
 }
-.icon-Arts-Protector:before {
+.ak-Arts-Protector:before {
   content: "\e907";
 }
-.icon-Bard:before {
+.ak-Bard:before {
   content: "\e908";
 }
-.icon-Besieger:before {
+.ak-Besieger:before {
   content: "\e909";
 }
-.icon-Blast:before {
+.ak-Blast:before {
   content: "\e90a";
 }
-.icon-Caster:before {
+.ak-Caster:before {
   content: "\e90b";
 }
-.icon-Centurion:before {
+.ak-Centurion:before {
   content: "\e90c";
 }
-.icon-Chain:before {
+.ak-Chain:before {
   content: "\e90d";
 }
-.icon-Chain-Healer:before {
+.ak-Chain-Healer:before {
   content: "\e90e";
 }
-.icon-Charger:before {
+.ak-Charger:before {
   content: "\e90f";
 }
-.icon-Core:before {
+.ak-Core:before {
   content: "\e910";
 }
-.icon-Crusher:before {
+.ak-Crusher:before {
   content: "\e911";
 }
-.icon-Deadeye:before {
+.ak-Deadeye:before {
   content: "\e912";
 }
-.icon-Decel-Binder:before {
+.ak-Decel-Binder:before {
   content: "\e913";
 }
-.icon-Defender:before {
+.ak-Defender:before {
   content: "\e914";
 }
-.icon-Dollkeeper:before {
+.ak-Dollkeeper:before {
   content: "\e915";
 }
-.icon-Dreadnought:before {
+.ak-Dreadnought:before {
   content: "\e916";
 }
-.icon-Duelist:before {
+.ak-Duelist:before {
   content: "\e917";
 }
-.icon-Earthshaker:before {
+.ak-Earthshaker:before {
   content: "\e918";
 }
-.icon-Executor:before {
+.ak-Executor:before {
   content: "\e919";
 }
-.icon-Fighter:before {
+.ak-Fighter:before {
   content: "\e91a";
 }
-.icon-Flinger:before {
+.ak-Flinger:before {
   content: "\e91b";
 }
-.icon-Fortress:before {
+.ak-Fortress:before {
   content: "\e91c";
 }
-.icon-Geek:before {
+.ak-Geek:before {
   content: "\e91d";
 }
-.icon-Guard:before {
+.ak-Guard:before {
   content: "\e91e";
 }
-.icon-Guardian:before {
+.ak-Guardian:before {
   content: "\e91f";
 }
-.icon-Heavyshooter:before {
+.ak-Heavyshooter:before {
   content: "\e920";
 }
-.icon-Hexer:before {
+.ak-Hexer:before {
   content: "\e921";
 }
-.icon-Hookmaster:before {
+.ak-Hookmaster:before {
   content: "\e922";
 }
-.icon-Hunter:before {
+.ak-Hunter:before {
   content: "\e923";
 }
-.icon-Incantation:before {
+.ak-Incantation:before {
   content: "\e924";
 }
-.icon-Instructor:before {
+.ak-Instructor:before {
   content: "\e925";
 }
-.icon-Juggernaut:before {
+.ak-Juggernaut:before {
   content: "\e926";
 }
-.icon-Liberator:before {
+.ak-Liberator:before {
   content: "\e927";
 }
-.icon-Loopshooter:before {
+.ak-Loopshooter:before {
   content: "\e928";
 }
-.icon-Lord:before {
+.ak-Lord:before {
   content: "\e929";
 }
-.icon-Marksman:before {
+.ak-Marksman:before {
   content: "\e92a";
 }
-.icon-Mech-Accord:before {
+.ak-Mech-Accord:before {
   content: "\e92b";
 }
-.icon-Medic:before {
+.ak-Medic:before {
   content: "\e92c";
 }
-.icon-Merchant:before {
+.ak-Merchant:before {
   content: "\e92d";
 }
-.icon-Multi-target:before {
+.ak-Multi-target:before {
   content: "\e92e";
 }
-.icon-Mystic:before {
+.ak-Mystic:before {
   content: "\e92f";
 }
-.icon-Phalanx:before {
+.ak-Phalanx:before {
   content: "\e930";
 }
-.icon-Physician:before {
+.ak-Physician:before {
   content: "\e931";
 }
-.icon-Pioneer:before {
+.ak-Pioneer:before {
   content: "\e932";
 }
-.icon-Primal:before {
+.ak-Primal:before {
   content: "\e933";
 }
-.icon-Primal-Protector:before {
+.ak-Primal-Protector:before {
   content: "\e934";
 }
-.icon-Protector:before {
+.ak-Protector:before {
   content: "\e935";
 }
-.icon-Push-Stroker:before {
+.ak-Push-Stroker:before {
   content: "\e936";
 }
-.icon-Reaper:before {
+.ak-Reaper:before {
   content: "\e937";
 }
-.icon-Ritualist:before {
+.ak-Ritualist:before {
   content: "\e938";
 }
-.icon-Sentry-Protector:before {
+.ak-Sentry-Protector:before {
   content: "\e939";
 }
-.icon-Shaper:before {
+.ak-Shaper:before {
   content: "\e93a";
 }
-.icon-Skyranger:before {
+.ak-Skyranger:before {
   content: "\e93b";
 }
-.icon-Sniper:before {
+.ak-Sniper:before {
   content: "\e93c";
 }
-.icon-Soloblade:before {
+.ak-Soloblade:before {
   content: "\e93d";
 }
-.icon-Specialist:before {
+.ak-Specialist:before {
   content: "\e93e";
 }
-.icon-Splash:before {
+.ak-Splash:before {
   content: "\e93f";
 }
-.icon-Spreadshooter:before {
+.ak-Spreadshooter:before {
   content: "\e940";
 }
-.icon-Standard-Bearer:before {
+.ak-Standard-Bearer:before {
   content: "\e941";
 }
-.icon-Summoner:before {
+.ak-Summoner:before {
   content: "\e942";
 }
-.icon-Supporter:before {
+.ak-Supporter:before {
   content: "\e943";
 }
-.icon-Swordmaster:before {
+.ak-Swordmaster:before {
   content: "\e944";
 }
-.icon-Tactician:before {
+.ak-Tactician:before {
   content: "\e945";
 }
-.icon-Therapist:before {
+.ak-Therapist:before {
   content: "\e946";
 }
-.icon-Trapmaster:before {
+.ak-Trapmaster:before {
   content: "\e947";
 }
-.icon-Vanguard:before {
+.ak-Vanguard:before {
   content: "\e948";
 }
-.icon-Wandering:before {
+.ak-Wandering:before {
   content: "\e949";
 }
