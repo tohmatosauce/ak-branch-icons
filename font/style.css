@@ -1,0 +1,261 @@
+@font-face {
+  font-family: 'ak-class';
+  src:  url('font/400/ak-class-icons.eot?9ur6db');
+  src:  url('font/400/ak-class-icons.eot?9ur6db#iefix') format('embedded-opentype'),
+    url('font/400/ak-class-icons.ttf?9ur6db') format('truetype'),
+    url('font/400/ak-class-icons.woff?9ur6db') format('woff'),
+    url('font/400/ak-class-icons.svg?9ur6db#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+@font-face {
+  font-family: 'ak-class';
+  src:  url('font/400/ak-class-icons.eot?62ht0j');
+  src:  url('font/400/ak-class-icons.eot?62ht0j#iefix') format('embedded-opentype'),
+    url('font/400/ak-class-icons.ttf?62ht0j') format('truetype'),
+    url('font/400/ak-class-icons.woff?62ht0j') format('woff'),
+    url('font/400/ak-class-icons.svg?62ht0j#icomoon') format('svg');
+  font-weight: bold;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="ak-class-"], [class*=" ak-class-"] {
+  /* use !important to prevent issues with browser extensions that change font */
+  font-family: 'ak-class' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Abjurer:before {
+  content: "\e900";
+}
+.icon-Agent:before {
+  content: "\e901";
+}
+.icon-Alchemist:before {
+  content: "\e902";
+}
+.icon-Ambusher:before {
+  content: "\e903";
+}
+.icon-Artificer:before {
+  content: "\e904";
+}
+.icon-Artilleryman:before {
+  content: "\e905";
+}
+.icon-Arts-Fighter:before {
+  content: "\e906";
+}
+.icon-Arts-Protector:before {
+  content: "\e907";
+}
+.icon-Bard:before {
+  content: "\e908";
+}
+.icon-Besieger:before {
+  content: "\e909";
+}
+.icon-Blast:before {
+  content: "\e90a";
+}
+.icon-Caster:before {
+  content: "\e90b";
+}
+.icon-Centurion:before {
+  content: "\e90c";
+}
+.icon-Chain:before {
+  content: "\e90d";
+}
+.icon-Chain-Healer:before {
+  content: "\e90e";
+}
+.icon-Charger:before {
+  content: "\e90f";
+}
+.icon-Core:before {
+  content: "\e910";
+}
+.icon-Crusher:before {
+  content: "\e911";
+}
+.icon-Deadeye:before {
+  content: "\e912";
+}
+.icon-Decel-Binder:before {
+  content: "\e913";
+}
+.icon-Defender:before {
+  content: "\e914";
+}
+.icon-Dollkeeper:before {
+  content: "\e915";
+}
+.icon-Dreadnought:before {
+  content: "\e916";
+}
+.icon-Duelist:before {
+  content: "\e917";
+}
+.icon-Earthshaker:before {
+  content: "\e918";
+}
+.icon-Executor:before {
+  content: "\e919";
+}
+.icon-Fighter:before {
+  content: "\e91a";
+}
+.icon-Flinger:before {
+  content: "\e91b";
+}
+.icon-Fortress:before {
+  content: "\e91c";
+}
+.icon-Geek:before {
+  content: "\e91d";
+}
+.icon-Guard:before {
+  content: "\e91e";
+}
+.icon-Guardian:before {
+  content: "\e91f";
+}
+.icon-Heavyshooter:before {
+  content: "\e920";
+}
+.icon-Hexer:before {
+  content: "\e921";
+}
+.icon-Hookmaster:before {
+  content: "\e922";
+}
+.icon-Hunter:before {
+  content: "\e923";
+}
+.icon-Incantation:before {
+  content: "\e924";
+}
+.icon-Instructor:before {
+  content: "\e925";
+}
+.icon-Juggernaut:before {
+  content: "\e926";
+}
+.icon-Liberator:before {
+  content: "\e927";
+}
+.icon-Loopshooter:before {
+  content: "\e928";
+}
+.icon-Lord:before {
+  content: "\e929";
+}
+.icon-Marksman:before {
+  content: "\e92a";
+}
+.icon-Mech-Accord:before {
+  content: "\e92b";
+}
+.icon-Medic:before {
+  content: "\e92c";
+}
+.icon-Merchant:before {
+  content: "\e92d";
+}
+.icon-Multi-target:before {
+  content: "\e92e";
+}
+.icon-Mystic:before {
+  content: "\e92f";
+}
+.icon-Phalanx:before {
+  content: "\e930";
+}
+.icon-Physician:before {
+  content: "\e931";
+}
+.icon-Pioneer:before {
+  content: "\e932";
+}
+.icon-Primal:before {
+  content: "\e933";
+}
+.icon-Primal-Protector:before {
+  content: "\e934";
+}
+.icon-Protector:before {
+  content: "\e935";
+}
+.icon-Push-Stroker:before {
+  content: "\e936";
+}
+.icon-Reaper:before {
+  content: "\e937";
+}
+.icon-Ritualist:before {
+  content: "\e938";
+}
+.icon-Sentry-Protector:before {
+  content: "\e939";
+}
+.icon-Shaper:before {
+  content: "\e93a";
+}
+.icon-Skyranger:before {
+  content: "\e93b";
+}
+.icon-Sniper:before {
+  content: "\e93c";
+}
+.icon-Soloblade:before {
+  content: "\e93d";
+}
+.icon-Specialist:before {
+  content: "\e93e";
+}
+.icon-Splash:before {
+  content: "\e93f";
+}
+.icon-Spreadshooter:before {
+  content: "\e940";
+}
+.icon-Standard-Bearer:before {
+  content: "\e941";
+}
+.icon-Summoner:before {
+  content: "\e942";
+}
+.icon-Supporter:before {
+  content: "\e943";
+}
+.icon-Swordmaster:before {
+  content: "\e944";
+}
+.icon-Tactician:before {
+  content: "\e945";
+}
+.icon-Therapist:before {
+  content: "\e946";
+}
+.icon-Trapmaster:before {
+  content: "\e947";
+}
+.icon-Vanguard:before {
+  content: "\e948";
+}
+.icon-Wandering:before {
+  content: "\e949";
+}
