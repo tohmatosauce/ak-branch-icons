@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'ak-class-icons';
-  src:  url('font/400/ak-class-icons.eot?9ur6db');
-  src:  url('font/400/ak-class-icons.eot?9ur6db#iefix') format('embedded-opentype'),
-    url('font/400/ak-class-icons.ttf?9ur6db') format('truetype'),
-    url('font/400/ak-class-icons.woff?9ur6db') format('woff'),
-    url('font/400/ak-class-icons.svg?9ur6db#icomoon') format('svg');
+  src:  url('400/ak-class-icons.eot');
+  src:  url('400/ak-class-icons.eot') format('embedded-opentype'),
+    url('400/ak-class-icons.ttf') format('truetype'),
+    url('400/ak-class-icons.woff') format('woff'),
+    url('400/ak-class-icons.svg') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -12,11 +12,11 @@
 
 @font-face {
   font-family: 'ak-class-icons';
-  src:  url('font/400/ak-class-icons.eot?62ht0j');
-  src:  url('font/400/ak-class-icons.eot?62ht0j#iefix') format('embedded-opentype'),
-    url('font/400/ak-class-icons.ttf?62ht0j') format('truetype'),
-    url('font/400/ak-class-icons.woff?62ht0j') format('woff'),
-    url('font/400/ak-class-icons.svg?62ht0j#icomoon') format('svg');
+  src:  url('600/ak-class-icons.eot');
+  src:  url('600/ak-class-icons.eot') format('embedded-opentype'),
+    url('600/ak-class-icons.ttf') format('truetype'),
+    url('600/ak-class-icons.woff') format('woff'),
+    url('600/ak-class-icons.svg') format('svg');
   font-weight: bold;
   font-style: normal;
   font-display: block;
@@ -27,7 +27,6 @@
   font-family: 'ak-class-icons' !important;
   speak: never;
   font-style: normal;
-  font-weight: normal;
   font-variant: normal;
   text-transform: none;
   line-height: 1;
@@ -35,6 +34,12 @@
   /* Better Font Rendering =========== */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+.ak-solid {
+  font-weight: bold !important;
+}
+.ak-regular {
+  font-weight: normal !important;
 }
 
 .ak-Abjurer:before {
