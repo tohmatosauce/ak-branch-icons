@@ -26,6 +26,7 @@
   /* use !important to prevent issues with browser extensions that change font */
   font-family: 'ak-class-icons' !important;
   speak: never;
+  font-weight: bold;
   font-style: normal;
   font-variant: normal;
   text-transform: none;
@@ -197,6 +198,9 @@
 }
 .ak-Primal:before {
   content: "\e933";
+}
+.ak-Primal-Fighter:before {
+  content: "\e94a";
 }
 .ak-Primal-Protector:before {
   content: "\e934";
