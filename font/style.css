@@ -22,7 +22,7 @@
   font-display: block;
 }
 
-.ak-class {
+.ak {
   /* use !important to prevent issues with browser extensions that change font */
   font-family: 'ak-class-icons' !important;
   speak: never;
