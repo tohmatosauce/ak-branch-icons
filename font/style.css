@@ -200,71 +200,71 @@
   content: "\e933";
 }
 .ak-Primal-Fighter:before {
-  content: "\e94a";
-}
-.ak-Primal-Protector:before {
   content: "\e934";
 }
-.ak-Protector:before {
+.ak-Primal-Protector:before {
   content: "\e935";
 }
-.ak-Push-Stroker:before {
+.ak-Protector:before {
   content: "\e936";
 }
-.ak-Reaper:before {
+.ak-Push-Stroker:before {
   content: "\e937";
 }
-.ak-Ritualist:before {
+.ak-Reaper:before {
   content: "\e938";
 }
-.ak-Sentry-Protector:before {
+.ak-Ritualist:before {
   content: "\e939";
 }
-.ak-Shaper:before {
+.ak-Sentry-Protector:before {
   content: "\e93a";
 }
-.ak-Skyranger:before {
+.ak-Shaper:before {
   content: "\e93b";
 }
-.ak-Sniper:before {
+.ak-Skyranger:before {
   content: "\e93c";
 }
-.ak-Soloblade:before {
+.ak-Sniper:before {
   content: "\e93d";
 }
-.ak-Specialist:before {
+.ak-Soloblade:before {
   content: "\e93e";
 }
-.ak-Splash:before {
+.ak-Specialist:before {
   content: "\e93f";
 }
-.ak-Spreadshooter:before {
+.ak-Splash:before {
   content: "\e940";
 }
-.ak-Standard-Bearer:before {
+.ak-Spreadshooter:before {
   content: "\e941";
 }
-.ak-Summoner:before {
+.ak-Standard-Bearer:before {
   content: "\e942";
 }
-.ak-Supporter:before {
+.ak-Summoner:before {
   content: "\e943";
 }
-.ak-Swordmaster:before {
+.ak-Supporter:before {
   content: "\e944";
 }
-.ak-Tactician:before {
+.ak-Swordmaster:before {
   content: "\e945";
 }
-.ak-Therapist:before {
+.ak-Tactician:before {
   content: "\e946";
 }
-.ak-Trapmaster:before {
+.ak-Therapist:before {
   content: "\e947";
 }
-.ak-Vanguard:before {
+.ak-Trapmaster:before {
   content: "\e948";
 }
-.ak-Wandering:before {
+.ak-Vanguard:before {
   content: "\e949";
+}
+.ak-Wandering:before {
+  content: "\e94a";
 }
