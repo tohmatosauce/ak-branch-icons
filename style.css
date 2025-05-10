@@ -70,7 +70,6 @@ body {
     color: var(--off-ui);
     mix-blend-mode: difference;
     text-transform: uppercase;
-    font-weight: 800;
 }
 #anchor-panel a {
     color: unset;
