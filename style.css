@@ -5,18 +5,25 @@
     --lightest: #eaeaea;
 }
 body {
-    background-image: linear-gradient(to bottom, var(--darkest), var(--lightest));
-    background-attachment: fixed;
     font-family: "Inter";
     font-size: 16px;
     line-height: 1;
     color: var(--text-color);
+}
+.fixedbg {
+    background-image: linear-gradient(to bottom, var(--darkest), var(--lightest));
+    width: 100dvw;
+    height: 100dvh;
+    position: fixed;
+    top: 0;
+    left: 0;
 }
 .tableborder {
     box-sizing: border-box;
     margin: 20px auto 20px;
     padding: 20px;
     max-width: 1000px;
+    position: relative;
 }
 
 #title {
@@ -88,6 +95,8 @@ body {
     padding-top: 10px;
     line-height: 1.4;
     font-size: 1.1rem;
+    padding: 0 0 40px;
+    border-bottom: 3px solid var(--darkest);
 }
 #about a {
     color: var(--lightest);
