@@ -19,9 +19,6 @@ body {
     max-width: 1000px;
 }
 
-.funstickywindow {
-    margin-bottom: -45px;
-}
 #title {
     text-transform: uppercase;
     font-weight: 900;
@@ -38,7 +35,6 @@ body {
     text-transform: uppercase;
     font-weight: 900;
     letter-spacing: min(3vw, 2rem);
-    margin-bottom: 45px;
     display: inline-block;
     position: relative;
 }
@@ -66,6 +62,8 @@ body {
     z-index: 10;
     color: var(--off-ui);
     mix-blend-mode: difference;
+    text-transform: uppercase;
+    font-weight: 800;
 }
 #anchor-panel a {
     color: unset;
@@ -85,6 +83,36 @@ body {
     transform: scale(2);
     transition: 1s ease;
 } */
+
+#about {
+    padding-top: 10px;
+    line-height: 1.4;
+    font-size: 1.1rem;
+}
+#about a {
+    color: var(--lightest);
+    text-decoration: unset;
+    font-weight: 700;
+    font-size: .9rem;
+    background-color: var(--text-color);
+    padding: .1rem 5px;
+    border-radius: 3px;
+}
+#about b {
+    font-size: .95rem;
+    font-weight: 700;
+}
+#about code {
+    font-family: "Sono";
+    font-size: .9rem;
+    padding: .1rem 8px;
+    border: 1px solid var(--darkest);
+    border-radius: 3px;
+    color: color-mix(in srgb, var(--text-color) 75%, transparent);
+    background: color-mix(in srgb, var(--lightest) 30%, transparent);
+    -webkit-box-decoration-break: clone;
+            box-decoration-break: clone;
+}
 
 .icongroup {
     margin: 30px 0 0;
@@ -126,6 +154,7 @@ h2 b {
     box-sizing: border-box;
     display: flex;
     flex-wrap: wrap;
+    -ms-grid-columns: auto 15px auto;
     grid-template-columns: auto auto;
     gap: 10px 15px;
 }
