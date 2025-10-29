@@ -268,3 +268,6 @@
 .ak-wandering:before {
   content: "\e94a";
 }
+.ak-strategist:before{
+  content: "\e94b";
+}
